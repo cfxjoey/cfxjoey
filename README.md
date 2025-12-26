@@ -12,7 +12,6 @@ I’m a teen coder who loves creating **scripts, tools, and projects**—mostly 
 
 ```lua
 Joey = {
-    Graduation = 2027,
     Languages = {
         "JavaScript",
         "Lua",
