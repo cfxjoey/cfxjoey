@@ -7,7 +7,7 @@ I’m a teen who enjoys building projects in my free time. Most of my work focus
 ![Discord: joeycfx](https://img.shields.io/badge/joeycfx-%000000?style=for-the-badge&logo=Discord&logoColor=7289da)
 
 
--- Defining the legend
+```lua
 Joey = {
     Graduation = 2027,
     Skills = {
