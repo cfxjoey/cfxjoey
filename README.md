@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi There! I'm Joey 👋
 
-<!--
-**cfxjoey/cfxjoey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I’m a teen who enjoys building projects in my free time. Most of my work focuses on small, useful scripts for FiveM servers, but I also explore other languages and projects for fun.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 Profile Views: ∞  
+[![Discord](https://img.shields.io/badge/-Discord-9B9B9B?style=flat&logo=Discord&logoColor=white&color=ff69b4)](https://discord.com/users/<529042334718099477>)
+
+```lua
+Joey = {
+  Graduation = 2027,
+  Known_Languages = { "JavaScript", "Node.JS", "Express.JS", "MySQL", "Lua", "C#", "HTML/CSS", "PHP", "Java", "Python" },
+  ImCool = true
+}
+
+while Joey.ImCool do
+  Wait(0)
+  print("Nobody can be as to myself as I am")
+end
