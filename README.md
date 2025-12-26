@@ -4,7 +4,7 @@
 
 I’m a teen coder who loves creating **scripts, tools, and projects**—mostly for **FiveM servers**, but I’m always exploring new languages and ideas for fun.  
 
-![Discord: joeycfx](https://img.shields.io/badge/joeycfx-%000000?style=for-the-badge&logo=Discord&logoColor=7289da)
+![Discord: joeycfx](https://img.shields.io/badge/joeycfx-000000?style=for-the-badge&logo=Discord&logoColor=7289DA)
 
 ---
 
