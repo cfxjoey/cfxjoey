@@ -5,7 +5,7 @@
 I’m a teen who enjoys building projects in my free time. Most of my work focuses on small, useful scripts for FiveM servers, but I also explore other languages and projects for fun.
 
 👀 Profile Views: ∞  
-[![Discord](https://img.shields.io/badge/-Discord-9B9B9B?style=flat&logo=Discord&logoColor=white&color=ff69b4)](https://discord.com/users/<529042334718099477>)
+[![Discord: joeycfx](https://img.shields.io/badge/-joeycfx-9B9B9B?style=flat&logo=Discord&logoColor=white&color=ff69b4)]
 
 ```lua
 Joey = {
